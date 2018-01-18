@@ -7,7 +7,7 @@ Git
   Fork --> copia
   Pull request --> Solicitar cambios en un repositorio
   
-Nota: psicobyte.github.io/markdown_slides/#/
+Nota: psicobyte.github.io/markdown_slides/ son las transparencias del lenguaje, creadas por Psicobyte (Pablo)
 
 
 
